@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaskDemoApp</string>
+    <string name="speekFreely_instruction">Ich höre Ihnen zu</string>
+    <string name="startRecInfo">Drücken um aufzunehmen</string>
+    <string name="stopRecInfo">Drücken um die Aufnahme zu beenden</string>
+    <string name="waitRecInfo">Warten Sie bitte ...</string>
+    <string name="resultsIntroduction">Tragen Sie eine Maske?</string>
+    <string name="modelIntroduction">Unser Modell sagt:</string>
+    <string name="toMain">Zurück</string>
+    <string name="quitApp">Beenden</string>
+</resources>
